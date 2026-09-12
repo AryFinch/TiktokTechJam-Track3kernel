@@ -1,0 +1,171 @@
+[
+  {
+    "row": 1,
+    "config": [
+      64,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 5.039
+  },
+  {
+    "row": 2,
+    "config": [
+      1,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v4_sdpa_compile",
+    "best_speedup": 2.397
+  },
+  {
+    "row": 3,
+    "config": [
+      4,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1.281
+  },
+  {
+    "row": 4,
+    "config": [
+      16,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1.417
+  },
+  {
+    "row": 5,
+    "config": [
+      128,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 18.08
+  },
+  {
+    "row": 6,
+    "config": [
+      10000,
+      128,
+      4,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1358.573
+  },
+  {
+    "row": 7,
+    "config": [
+      64,
+      32,
+      4,
+      128,
+      4,
+      32
+    ],
+    "best_variant": "v3_fused",
+    "best_speedup": 0.914
+  },
+  {
+    "row": 8,
+    "config": [
+      64,
+      1024,
+      4,
+      128,
+      4,
+      1024
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 110.935
+  },
+  {
+    "row": 9,
+    "config": [
+      64,
+      128,
+      1,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1.413
+  },
+  {
+    "row": 10,
+    "config": [
+      64,
+      128,
+      2,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1.437
+  },
+  {
+    "row": 11,
+    "config": [
+      64,
+      128,
+      16,
+      128,
+      4,
+      128
+    ],
+    "best_variant": "v2_compile",
+    "best_speedup": 1.389
+  },
+  {
+    "row": 12,
+    "config": [
+      64,
+      128,
+      4,
+      32,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 1.385
+  },
+  {
+    "row": 13,
+    "config": [
+      64,
+      128,
+      4,
+      1024,
+      4,
+      128
+    ],
+    "best_variant": "v1_sdpa",
+    "best_speedup": 319.447
+  }
+]
